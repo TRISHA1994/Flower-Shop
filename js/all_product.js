@@ -3,6 +3,9 @@ fetch('js/product.json')
     .then(products => {
       const list = document.getElementById('product_lst');
       const template = document.getElementById('product');
+
+      const salelist = document.getElementById('saleProd');
+      const saletemplate = document.getElementById('saleTemp');
  
       if (template) {
         products.slice(0, 3).forEach(product => {
@@ -32,5 +35,35 @@ fetch('js/product.json')
           list.appendChild(clone);
         });
       }
+
+      if (saletemplate) {
+        products.slice(0, 4).forEach(product => {
+          const saleclone = saletemplate.content.cloneNode(true);
+ 
+          const img = saleclone.querySelector('img');
+          const title = saleclone.querySelector('.sale_head');
+          const price = saleclone.querySelector('.sale_price');
+ 
+          if (img) img.src = product.image;
+          if (img) img.alt = product.name;
+          if (title) title.textContent = product.name;
+          if (price) price.textContent = product.price;
+ 
+ 
+          const params = new URLSearchParams({
+            id: product.id,
+            name: product.name,
+            price: product.price,
+            image: product.image,
+            description: product.description,
+            ingredients:product.ingredients
+          });
+ 
+          saleclone.querySelector('.sale_btn').href = `./product_details.html?${params.toString()}`;
+ 
+          salelist.appendChild(saleclone);
+        });
+      }
+
     })
     .catch(err => console.error('Error loading products:', err));

@@ -12,7 +12,7 @@ function renderCart() {
     let shipping = 0;
     let total = 0;
     if (cart.length === 0) {
-      mainContainer.innerHTML = '<div class="text-center"><h2>Your cart is empty.</h2><a href="shop.html"><button class="prod-btn">Shop Now</button></a></div>';
+      mainContainer.innerHTML = '<div class="text-center"><h2>Your cart is empty.</h2><div class="text-center mx-auto my-5"><a href="shop.html" class="cmn_btn">Shop Now</a></div></div>';
       return;
     }
  
