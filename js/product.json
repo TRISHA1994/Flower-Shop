@@ -1,0 +1,76 @@
+[
+  {
+      "id": 1,
+      "name": "Queen Rose - Pink",
+      "price": "$300",
+      "image": "./images/f1.jpg",
+      "description": "Soft and delicate, the Queen Rose - Pink bouquet captures the essence of charm and admiration. Each bloom radiates gentle elegance, making it a lovely choice for birthdays, anniversaries, or just because. The blush-toned roses are beautifully arranged to highlight their natural grace. Their soft fragrance may add a touch of warmth to any space. This bouquet could be ideal for expressing gentle affection or sweet gratitude. It might also complement romantic gestures or heartfelt messages."
+    },
+    {
+      "id": 2,
+      "name": "Bouquet Rose",
+      "price": "$160",
+      "image": "./images/f2.jpg",
+      "description": "A timeless collection of classic roses, carefully arranged to embody love and beauty. This bouquet may bring an elegant touch to any occasion, whether it's a celebration or a thoughtful surprise. The blooms are thoughtfully selected for their color and freshness. Their simple yet graceful look might make them suitable for all kinds of sentiments. Designed with care, this bouquet could bring joy with every petal. A versatile floral choice for any moment."
+    },
+    {
+      "id": 3,
+      "name": "Fun & Flirty By BloomNation",
+      "price": "$240.98",
+      "image": "./images/f3.jpg",
+      "description": "Lively and playful, this bouquet blends vibrant colors and cheerful blooms for a joyful display. It may be a great choice for birthdays, congratulations, or just to brighten someone's day. With its energetic arrangement, the bouquet might inspire smiles and light-hearted feelings. A touch of fun meets floral elegance in this stylish design. Handcrafted with a modern twist, it could be a favorite for upbeat celebrations. Fresh, colorful, and full of personality."
+    },
+    {
+      "id": 4,
+      "name": "Bouquet Rose",
+      "price": "$300.2",
+      "image": "./images/f4.jpg",
+      "description": "Refined and graceful, this arrangement offers a sophisticated presentation of premium florals. The bouquet may suit formal occasions, special events, or elegant home décor. Featuring thoughtfully selected blooms, it is designed to reflect poise and beauty. The soft hues and balanced layout may evoke calm and admiration. This arrangement could be a wonderful gesture of appreciation or love. A timeless floral expression of elegance."
+    },
+    {
+      "id": 5,
+      "name": "Elegant by BloomNation",
+      "price": "$150.2",
+      "image": "./images/f5.jpg",
+      "description": "Bold and classic, the Queen Rose - Red bouquet speaks the language of deep love and passion. These richly colored roses might symbolize devotion and lasting affection. Ideal for anniversaries or romantic gestures, this bouquet is a statement of heartfelt emotion. Carefully arranged, the flowers could captivate with their timeless charm. Their rich fragrance may add a romantic touch to any space. A perfect way to express meaningful connections."
+    },
+    {
+      "id": 6,
+      "name": "Queen Rose - Red",
+      "price": "$240.98",
+      "image": "./images/f6.jpg",
+      "description": "Bright and cheerful, the Queen Rose - Yellow bouquet may represent friendship, joy, and new beginnings. Each sunny bloom is arranged to radiate warmth and positivity. This bouquet could be ideal for celebrations, thank-you gifts, or to simply brighten someone’s day. The cheerful yellow tones might uplift moods and create smiles. Designed with care, the bouquet reflects happiness in every petal. A joyful floral expression with a golden touch."
+    },
+    {
+        "id": 7,
+        "name": "Queen Rose - Yellow",
+        "price": "$170.52",
+        "image": "./images/f7.jpg",
+        "description": "A symbol of timeless love and passion, the Red Rose bouquet is a true romantic classic. These vibrant blooms may express deep admiration and heartfelt emotion. Ideal for Valentine’s Day, proposals, or anniversaries, they make a bold statement. Arranged with elegance, they reflect purity in design and intention. The vivid color and soft petals may speak volumes without a word. A meaningful gift that could leave a lasting impression."
+      },
+      {
+        "id": 8,
+        "name": "Red Rose",
+        "price": "$120.29",
+        "image": "./images/f8.jpg",
+        "description": "Crisp and serene, the Winter White Bouquet offers a graceful blend of white blooms that reflect peace and purity. It may suit winter weddings, holiday décor, or thoughtful sympathies. The cool palette and refined layout create a calming ambiance. Each flower is carefully selected to bring a sense of elegance and simplicity. This bouquet might add charm to both festive and reflective occasions. A graceful choice with seasonal appeal."
+      },
+      {
+        "id": 9,
+        "name": "Winter White Bouquet",
+        "price": "$340.78",
+        "image": "./images/f9.jpg",
+        "description": "A crisp, elegant blend of white blooms that reflects the purity and calm of the winter season. A sophisticated arrangement for a serene setting."
+      }
+  ]
+
+
+
+
+
+
+  
+
+
+ 
+
