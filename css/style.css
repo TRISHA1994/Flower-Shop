@@ -771,3 +771,21 @@ section.checkout h2 {
     background: white;
     color: #9E303C;
 }
+span.badge.rounded-circle.text-white {
+    display: none;
+}
+.cart img {
+    width: 60px;
+    height: 60px;
+}
+.cart_head{
+  background-color: #9E303C;
+}
+.row.cart_head h4 {
+    color: white;
+    font-size: 12px;
+    margin: 0;
+}
+.cart_head{
+    padding:10px 0;
+}
