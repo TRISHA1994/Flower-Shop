@@ -416,10 +416,12 @@ nav.navbar {
     padding: 30px;
   }
 
-  .collection-item h2 {
+  .collection-item h2, .collection-item a {
     font-size: 2rem;
     text-align: left;
-  }
+    color: black;
+    text-decoration: none;
+}
 
   .collection-item .btn {
     margin-top: 15px;
@@ -709,13 +711,13 @@ textarea {
 }
 
 .terms a {
-  color: #4CAF50;
+  color: #9E303C;
   text-decoration: underline;
 }
 
 .checkout-btn {
   width: 100%;
-  background: #4CAF50;
+  background: #9E303C;
   color: #fff;
   padding: 14px;
   border: none;
@@ -788,4 +790,7 @@ span.badge.rounded-circle.text-white {
 }
 .cart_head{
     padding:10px 0;
+}
+.f_menu li a:hover {
+    color: #9E303C;
 }
